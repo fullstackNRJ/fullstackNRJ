@@ -1,8 +1,8 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](Neeraj%20Mukta.png "Header")](https://some-url.dev/)
 
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
  I'm Neeraj Mukta</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack and freelance developer from India</h3>
 
 - 🔭 I’m currently working on [redesigning portfolio](https://github.com/devnrj07/portfolio)
 
@@ -53,10 +53,8 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 
 **Some of my favorite open source projects**
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 
-
-    
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode) [![MEGA](https://img.shields.io/badge/-MEGA-000000?style=flat&logo=mega&logoColor=D9272E)](https://github.com/meganz/webclient) [![Bitwarden](https://img.shields.io/badge/-Bitwarden-000000?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden/browser) [![Dark Reader](<https://img.shields.io/badge/-Dark&#160;Reader-000000?style=flat&logo=Dark-Reader&logoColor=2f7485>)](https://github.com/darkreader/darkreader)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnrj07&layout=compact&hide=html" alt="devnrj07" />
 
