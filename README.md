@@ -62,7 +62,4 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=devnrj07&show_icons=true" alt="devnrj07" />
 
 
-<p align="center">
-<a href="https://twitter.com/neerajmukta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="neerajmukta" height="30" width="30" /></a> 
-<a href="https://linkedin.com/in/devnrj07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devnrj07" height="30" width="30" /></a>
-</p>
+
