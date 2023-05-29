@@ -18,7 +18,7 @@
 I’m a full-stack developer who has 5 years of experience in working with software development as a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend technologies.
 
 I work on understanding the business requirements and building the products around it. I specialize in building robust backends that do all the heavy lifting for the app or website. I love designing, developing and architecturing web & mobile apps.
-I focus on designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like React, React Native, Node and PWAs.
+I focus on designing systems that are light yet powerful, distributed yet synchronized and beautiful yet fast. I also blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like React, React Native, Node and PWAs.
 
 <br/>
 
