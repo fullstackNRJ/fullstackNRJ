@@ -104,7 +104,7 @@ I focus on designing systems that are light yet powerful, distributed yet synchr
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devnrj07&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=fullstackNRJ&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr></table>
 
