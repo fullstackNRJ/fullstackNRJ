@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Neeraj Mukta!
 
-<a href="https://twitter.com/devnrj07" target="_blank">
+<a href="https://twitter.com/neeraj_builds" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/devnrj07" target="_blank">
