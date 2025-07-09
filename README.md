@@ -51,54 +51,64 @@ My mission is simple: build tools and content that empower the next 1,000 builde
 ## 🚀 Tech Stack & Tools I Use
 
 <div align="center">  
-<!-- UI Frameworks & Styling -->
-<a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/react.svg" alt="React" height="25" style="margin:10px;" /></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/react.svg" alt="React Native" height="25" style="margin:10px;" /></a>
-<a href="https://astro.build/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/astro.svg" alt="Astro" height="25" style="margin:10px;" /></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nextdotjs.svg" alt="Next.js" height="25" style="margin:10px;" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tailwindcss.svg" alt="Tailwind CSS" height="25" style="margin:10px;" /></a>
-<a href="https://chakra-ui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/chakraui.svg" alt="Chakra UI" height="25" style="margin:10px;" /></a>
-<a href="https://framer.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/framer.svg" alt="Framer" height="25" style="margin:10px;" /></a>
+## 🎨 UI Frameworks & Styling
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
+![React Native](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
+![Astro](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg)  
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)  
+![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg)  
+![Chakra UI](https://img.shields.io/badge/ChakraUI-319795?style=flat&logo=chakraui&logoColor=white)  
+![Framer](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg)
 
-<!-- Languages & Runtime -->
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/typescript.svg" alt="TypeScript" height="25" style="margin:10px;" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/javascript.svg" alt="JavaScript" height="25" style="margin:10px;" /></a>
-<a href="https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/go.svg" alt="Go" height="25" style="margin:10px;" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/python.svg" alt="Python" height="25" style="margin:10px;" /></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nodedotjs.svg" alt="Node.js" height="25" style="margin:10px;" /></a>
+---
 
-<!-- Backend & Infra -->
-<a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/express.svg" alt="Express.js" height="25" style="margin:10px;" /></a>
-<a href="https://nestjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nestjs.svg" alt="NestJS" height="25" style="margin:10px;" /></a>
-<a href="https://vercel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/vercel.svg" alt="Vercel" height="25" style="margin:10px;" /></a>
-<a href="https://cloudflare.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/cloudflare.svg" alt="Cloudflare" height="25" style="margin:10px;" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/docker.svg" alt="Docker" height="25" style="margin:10px;" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/kubernetes.svg" alt="Kubernetes" height="25" style="margin:10px;" /></a>
+### 💻 Languages & Runtime
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg)  
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
 
-<!-- Databases & API -->
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mongodb.svg" alt="MongoDB" height="25" style="margin:10px;" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/postgresql.svg" alt="PostgreSQL" height="25" style="margin:10px;" /></a>
-<a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/redis.svg" alt="Redis" height="25" style="margin:10px;" /></a>
-<a href="https://graphql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/graphql.svg" alt="GraphQL" height="25" style="margin:10px;" /></a>
-<a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/supabase.svg" alt="Supabase" height="25" style="margin:10px;" /></a>
-<a href="https://trpc.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/trpc.svg" alt="tRPC" height="25" style="margin:10px;" /></a>
+---
 
-<!-- Tools & Dev Experience -->
-<a href="https://vitejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/vite.svg" alt="Vite" height="25" style="margin:10px;" /></a>
-<a href="https://figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/figma.svg" alt="Figma" height="25" style="margin:10px;" /></a>
-<a href="https://jestjs.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/jest.svg" alt="Jest" height="25" style="margin:10px;" /></a>
-<a href="https://playwright.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/playwright.svg" alt="Playwright" height="25" style="margin:10px;" /></a>
-<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" height="25" style="margin:10px;" /></a>
+### 🧩 Backend & Infrastructure
+![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)  
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)  
+![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg)
 
-<!-- AI / ML / Automation -->
-<a href="https://openai.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/openai.svg" alt="OpenAI" height="25" style="margin:10px;" /></a>
-<a href="https://huggingface.co/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/huggingface.svg" alt="HuggingFace" height="25" style="margin:10px;" /></a>
-<a href="https://replicate.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/replicate.svg" alt="Replicate" height="25" style="margin:10px;" /></a>
+---
+
+### 🗃️ Databases & APIs
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)  
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)  
+![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg)  
+![GraphQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg)  
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)  
+![tRPC](https://img.shields.io/badge/tRPC-2596be?style=flat&logo=trpc&logoColor=white)
+
+---
+
+### 🧰 Dev Tools & Automation
+![Vite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg)  
+![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)  
+![Jest](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg)  
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)  
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+
+---
+
+### 🧠 AI / ML / Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC63F?style=flat&logo=huggingface&logoColor=black)  
+![Replicate](https://img.shields.io/badge/Replicate-000000?style=flat&logo=replicate&logoColor=white)
 </div>
 
 <br/>
 
-## Github Stats
+## Dev Stats
 
 <table><tr><td valign="top" width="50%">
 
