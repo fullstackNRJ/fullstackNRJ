@@ -9,16 +9,29 @@
 <a href="https://linkedin.com/in/devnrj07" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/devnrj07" target="_blank">
+<a href="https://github.com/fullstackNRJ" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
 ### Glad to see you here!
 
-I’m a full-stack developer who has 5 years of experience in working with software development as a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend technologies.
 
-I work on understanding the business requirements and building the products around it. I specialize in building robust backends that do all the heavy lifting for the app or website. I love designing, developing and architecturing web & mobile apps.
-I focus on designing systems that are light yet powerful, distributed yet synchronized and beautiful yet fast. I also blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like React, React Native, Node and PWAs.
+I’m a full-stack product engineer with 8+ years of experience building, scaling, and shipping real-world software across web and mobile. From leading full-cycle product builds to architecting robust backend systems, my focus has always been clear: build fast, build smart, and build with purpose.
+
+I work at the intersection of engineering, product, and marketing, taking ideas from napkin sketch to polished MVP. I specialize in:
+	•	Designing scalable, distributed systems that stay lean under load.
+	•	Crafting user-first interfaces with React, React Native, and Astro.
+	•	Architecting SEO-optimized, PWA-ready platforms that drive visibility and performance.
+	•	Enabling AI-assisted workflows for faster build–test–iterate cycles.
+
+Currently, I run The MVP Co., a developer workshop and content lab focused on helping indie hackers and startup teams build and ship market-ready MVPs with speed and clarity. From boilerplate accelerators to system design blueprints and growth-ready marketing stacks, we engineer leverage.
+
+When I’m not coding or shipping, I share insights on:
+	•	System design, backend architecture, and cloud infra
+	•	Product-market fit and product-led growth
+	•	Engineering workflows for solo founders and lean teams
+
+My mission is simple: build tools and content that empower the next 1,000 builders to launch smarter, faster, and more profitably.
 
 <br/>
 
@@ -26,76 +39,63 @@ I focus on designing systems that are light yet powerful, distributed yet synchr
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [remotefront.io](https://remotefront.io/)
-
-- 🌱 I’m currently learning React Native and Native android development
-
-- ❓ Ask me about anything related to MERN & MEAN stack and related technologies
-
-- ⚡ Fun fact: I can write test cases before writing actual logic
+- 🔭 I’m currently working on [The MVP co.](https://themvpco.one/)
+-	🌱 Currently deep-diving into: AI-Native development, multi-platform app development with React Native, and native Android/iOS stacks — building future-ready interfaces and assistants.
+-	❓ Ask me about: System design, full-stack app architecture, modern stacks like MERN, MEAN, Astro, serverless backends, AI-assisted developer workflows, and growth-ready MVP delivery.
+-	⚡ Fun fact: I often write test cases before implementation — because if it can’t be tested, it probably shouldn’t be shipped.
 
 </td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
 
 </td></tr></table>
 
 <br/>
 
-## Languages and Tools
+## 🚀 Tech Stack & Tools I Use
 
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" /></a>  
-<a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
-<a href="https://www.strapi.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="25" /></a>  
+<!-- UI Frameworks & Styling -->
+<a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/react.svg" alt="React" height="25" style="margin:10px;" /></a>
+<a href="https://reactnative.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/react.svg" alt="React Native" height="25" style="margin:10px;" /></a>
+<a href="https://astro.build/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/astro.svg" alt="Astro" height="25" style="margin:10px;" /></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nextdotjs.svg" alt="Next.js" height="25" style="margin:10px;" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tailwindcss.svg" alt="Tailwind CSS" height="25" style="margin:10px;" /></a>
+<a href="https://chakra-ui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/chakraui.svg" alt="Chakra UI" height="25" style="margin:10px;" /></a>
+<a href="https://framer.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/framer.svg" alt="Framer" height="25" style="margin:10px;" /></a>
+
+<!-- Languages & Runtime -->
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/typescript.svg" alt="TypeScript" height="25" style="margin:10px;" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/javascript.svg" alt="JavaScript" height="25" style="margin:10px;" /></a>
+<a href="https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/go.svg" alt="Go" height="25" style="margin:10px;" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/python.svg" alt="Python" height="25" style="margin:10px;" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nodedotjs.svg" alt="Node.js" height="25" style="margin:10px;" /></a>
+
+<!-- Backend & Infra -->
+<a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/express.svg" alt="Express.js" height="25" style="margin:10px;" /></a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nestjs.svg" alt="NestJS" height="25" style="margin:10px;" /></a>
+<a href="https://vercel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/vercel.svg" alt="Vercel" height="25" style="margin:10px;" /></a>
+<a href="https://cloudflare.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/cloudflare.svg" alt="Cloudflare" height="25" style="margin:10px;" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/docker.svg" alt="Docker" height="25" style="margin:10px;" /></a>
+<a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/kubernetes.svg" alt="Kubernetes" height="25" style="margin:10px;" /></a>
+
+<!-- Databases & API -->
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mongodb.svg" alt="MongoDB" height="25" style="margin:10px;" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/postgresql.svg" alt="PostgreSQL" height="25" style="margin:10px;" /></a>
+<a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/redis.svg" alt="Redis" height="25" style="margin:10px;" /></a>
+<a href="https://graphql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/graphql.svg" alt="GraphQL" height="25" style="margin:10px;" /></a>
+<a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/supabase.svg" alt="Supabase" height="25" style="margin:10px;" /></a>
+<a href="https://trpc.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/trpc.svg" alt="tRPC" height="25" style="margin:10px;" /></a>
+
+<!-- Tools & Dev Experience -->
+<a href="https://vitejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/vite.svg" alt="Vite" height="25" style="margin:10px;" /></a>
+<a href="https://figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/figma.svg" alt="Figma" height="25" style="margin:10px;" /></a>
+<a href="https://jestjs.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/jest.svg" alt="Jest" height="25" style="margin:10px;" /></a>
+<a href="https://playwright.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/playwright.svg" alt="Playwright" height="25" style="margin:10px;" /></a>
+<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" height="25" style="margin:10px;" /></a>
+
+<!-- AI / ML / Automation -->
+<a href="https://openai.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/openai.svg" alt="OpenAI" height="25" style="margin:10px;" /></a>
+<a href="https://huggingface.co/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/huggingface.svg" alt="HuggingFace" height="25" style="margin:10px;" /></a>
+<a href="https://replicate.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/replicate.svg" alt="Replicate" height="25" style="margin:10px;" /></a>
 </div>
 
 <br/>
