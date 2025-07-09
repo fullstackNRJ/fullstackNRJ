@@ -6,7 +6,7 @@
 <a href="https://dev.to/devnrj07" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/devnrj07" target="_blank">
+<a href="https://linkedin.com/in/fullstackNRJ" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/fullstackNRJ" target="_blank">
@@ -43,8 +43,6 @@ My mission is simple: build tools and content that empower the next 1,000 builde
 -	🌱 Currently deep-diving into: AI-Native development, multi-platform app development with React Native, and native Android/iOS stacks — building future-ready interfaces and assistants.
 -	❓ Ask me about: System design, full-stack app architecture, modern stacks like MERN, MEAN, Astro, serverless backends, AI-assisted developer workflows, and growth-ready MVP delivery.
 -	⚡ Fun fact: I often write test cases before implementation — because if it can’t be tested, it probably shouldn’t be shipped.
-
-</td><td valign="top" width="50%">
 
 </td></tr></table>
 
